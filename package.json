@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-http-client",
+  "private": true,
+  "description": "A simple program calling an external rest api with http module.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mustapha Benmbarek",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
