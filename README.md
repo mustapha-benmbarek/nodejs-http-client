@@ -2,7 +2,7 @@
 
 
 ### What is in there
-This GitHub repository is just a simple program calling an external rest api with the native http module.
+This GitHub repository is just a simple program calling an external rest api using the native http module.
 
 
 ### What is Node.js
